@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.pcapng": "code-text-binary",
+        "stdio.h": "c"
+    }
+}
